@@ -16,4 +16,4 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 [LINK PARA O E-BOOK AQUI](https://github.com/Walissonw/lab-natty-or-not/blob/main/ebook.md)
 
 ## 💭 Reflexão (Opcional)
-Foi muito importante a criação desse pequeno ebook com o auxilio de IAs. Com esta experiência sem dúvida alguma, pode confirma que o uso das IAs vieram pontecializar a capacidade humana. 
+Foi muito importante a criação desse pequeno ebook com o auxilio de IA. Com esta experiência sem dúvida alguma pude confirma que o uso das IAs vieram pontecializar a capacidade humana. 
